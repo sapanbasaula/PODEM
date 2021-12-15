@@ -153,7 +153,7 @@ void checkFromNode(std::vector<NODE> &G , unsigned long long i){
 				}
 				G[i].CO = min;
 			}
-			break;
+			//break;
 		}
 	}
 }
